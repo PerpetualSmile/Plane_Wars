@@ -12,6 +12,8 @@ You can replace the source to change the items in game such as background music.
 2. Python-Pygame 1.9.3
 
 # About game
+
+Run the python file "Space_Invasion" to begin.
 Click the button play to start the game.
 You have 4 lives at the beginning.
 Your target is to annihilate all the planes of invader and protect your plane from colliding invaders.
