@@ -1,6 +1,9 @@
 # Space_Invasion
 This is a game written by python with pygame package .
 
+![](https://raw.githubusercontent.com/PerpetualSmile/picture/master/Plane/wars.gif)
+
+
 # Introduce
 
 This project includes 11 python files and some other source like images or musics.

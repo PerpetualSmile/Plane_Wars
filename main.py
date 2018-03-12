@@ -16,7 +16,7 @@ def run_game():
     pygame.init()
     ai_settings = Settings()
     screen = pygame.display.set_mode((ai_settings.screen_width, ai_settings.screen_height))
-    pygame.display.set_caption("Alien_Invasion")
+    pygame.display.set_caption("Plane_Wars")
     gf.set_bgscreen(ai_settings, screen)
 
     # 创建按钮
